@@ -1,0 +1,33 @@
+.container {
+  text-align: center;
+ 
+}
+body {
+  
+  color: black;
+  background:  #ebf0fa;
+}
+
+
+.caldiv{
+	background:  #adc2eb;
+	border:solid;
+	width:300px;
+	height: 200px;
+	margin: auto;
+	padding: 5px
+}
+.input{
+	width:280px;
+	border:solid 2px;
+}
+
+.btn{
+	width:25%;
+	border: 1px solid;
+	padding:3px 3px;
+	background:  #d6e0f5;
+}
+.form-group{
+	border:1px;
+}
